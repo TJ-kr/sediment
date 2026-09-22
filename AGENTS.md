@@ -1,5 +1,8 @@
 # AGENTS.md - Sediment Agent Operating Rules
 
+Read `docs/AGENT-GUIDE.ko.md` first for the shared HypeProof agent contract.
+This file adds Sediment-specific operating rules.
+
 This is the canonical instruction file for coding agents working in this
 repository. Keep it short and operational. Tool-specific files such as
 `CLAUDE.md` may add adapter details, but should not duplicate these rules.

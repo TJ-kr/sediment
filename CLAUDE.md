@@ -1,5 +1,7 @@
 # CLAUDE.md — Sediment
 
+Read `docs/AGENT-GUIDE.ko.md` first for the shared HypeProof agent contract.
+
 > Per-project instructions. Loaded automatically when the working tree is
 > inside `products/sediment/`. Augments the root `CLAUDE.md` (which covers
 > the Deck pipeline + content pipeline). Do NOT duplicate content here that's
